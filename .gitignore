@@ -1,0 +1,5 @@
+# Auth tokens (sensitive)
+tokens/*.json
+
+# Node
+node_modules/
