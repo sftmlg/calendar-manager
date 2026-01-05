@@ -8,9 +8,10 @@
     "auth": "node index.mjs auth",
     "list": "node index.mjs list",
     "today": "node index.mjs today",
+    "tomorrow": "node index.mjs tomorrow",
     "week": "node index.mjs week",
-    "create": "node index.mjs create",
-    "fetch": "node index.mjs fetch"
+    "sync": "node index.mjs sync",
+    "create": "node index.mjs create"
   },
   "dependencies": {
     "googleapis": "^144.0.0"

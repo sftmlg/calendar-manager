@@ -209,11 +209,12 @@ async function weekEvents(auth, account) {
 }
 
 // Sync to calendar-index (LLM-friendly format)
-// 4 weeks back + 4 weeks forward = 8 weeks total
-async function syncCalendar(auth, account) {
+// Default: 4 weeks back + 4 weeks forward = 8 weeks total
+// Custom: --from YYYY-MM-DD --to YYYY-MM-DD
+async function syncCalendar(auth, account, customFrom = null, customTo = null) {
   const now = new Date();
-  const startDate = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 28); // 4 weeks back
-  const endDate = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 28); // 4 weeks forward
+  const startDate = customFrom ? new Date(customFrom) : new Date(now.getFullYear(), now.getMonth(), now.getDate() - 28);
+  const endDate = customTo ? new Date(customTo) : new Date(now.getFullYear(), now.getMonth(), now.getDate() + 28);
 
   const events = await getEvents(auth, startDate, endDate);
   const formatted = events.map(formatEvent);
@@ -336,7 +337,8 @@ Commands:
   pnpm run today <account>      - Today's events
   pnpm run tomorrow <account>   - Tomorrow's events
   pnpm run week <account>       - This week's events
-  pnpm run sync <account>       - Sync to calendar-index/ (LLM-friendly)
+  pnpm run sync <account>       - Sync to calendar-index/ (LLM-friendly, default ±4 weeks)
+  pnpm run sync <account> --from YYYY-MM-DD --to YYYY-MM-DD  - Custom date range
   pnpm run sync all             - Sync all accounts + combined view
   pnpm run create <account> "Title" "Start" "End" ["Description"]
 
@@ -409,9 +411,14 @@ async function main() {
         await syncAll();
       } else if (accountOrArg) {
         const authSync = await authenticate(accountOrArg);
-        await syncCalendar(authSync, accountOrArg);
+        // Parse --from and --to arguments
+        const fromIdx = args.indexOf('--from');
+        const toIdx = args.indexOf('--to');
+        const customFrom = fromIdx !== -1 ? args[fromIdx + 1] : null;
+        const customTo = toIdx !== -1 ? args[toIdx + 1] : null;
+        await syncCalendar(authSync, accountOrArg, customFrom, customTo);
       } else {
-        console.error('Usage: node index.mjs sync <personal|business|all>');
+        console.error('Usage: node index.mjs sync <personal|business|all> [--from YYYY-MM-DD] [--to YYYY-MM-DD]');
         process.exit(1);
       }
       break;
