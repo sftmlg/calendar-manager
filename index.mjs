@@ -7,10 +7,11 @@ import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT_DIR = join(__dirname, '../..');
-const CREDENTIALS_PATH = join(ROOT_DIR, 'credentials.json');
-const TOKENS_DIR = join(__dirname, 'tokens');
-const CALENDAR_INDEX_DIR = join(ROOT_DIR, 'calendar-index');
+// Centralized tokens location (sibling folder in parent repo)
+const TOKENS_DIR = join(__dirname, '..', 'tokens', 'calendar-manager');
+const CREDENTIALS_PATH = join(__dirname, '..', 'tokens', 'credentials.json');
+// Local config (stays in tool repo)
+const CALENDAR_INDEX_DIR = join(__dirname, 'calendar-index');
 const CALENDARS_CONFIG_PATH = join(__dirname, 'calendars.json');
 const SCOPES = ['https://www.googleapis.com/auth/calendar'];
 
