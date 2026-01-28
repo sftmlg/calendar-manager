@@ -58,6 +58,29 @@ Synced events are stored in `calendar-index/` at repo root:
 }
 ```
 
+## Event Creation Rules
+
+**CRITICAL**: When creating events from external sources (websites, emails, invitations):
+
+1. **Always include registration/event link** in description with `🔗 REGISTRATION:` prefix
+2. **Fetch the source** to find the actual registration URL before creating
+3. **Include full program/agenda** if available
+4. **Add organizer contact** (email/phone) when provided
+
+Example description format:
+```
+Event description here.
+
+🔗 REGISTRATION: https://example.com/register
+
+PROGRAMM:
+- 16:00 Welcome
+- 17:00 Talk
+- 18:00 Networking
+
+Kontakt: Name, email@example.com
+```
+
 ## Workflow
 
 1. **Auth once**: `pnpm auth business` (OAuth flow, token saved)
