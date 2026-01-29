@@ -1,0 +1,1433 @@
+{
+  "synced_at": "2026-01-28T18:19:04.680Z",
+  "account": "business",
+  "range": {
+    "from": "2025-12-30",
+    "to": "2026-02-24"
+  },
+  "total_events": 147,
+  "days": [
+    {
+      "date": "2025-12-23",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "Ganztägig",
+          "startTime": null,
+          "endTime": null,
+          "title": "Holidays",
+          "location": "",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "date": "2025-12-31",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "13:00 - 13:15",
+          "startTime": "13:00",
+          "endTime": "13:15",
+          "title": "Sync",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-01",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "07:00 - 07:15",
+          "startTime": "07:00",
+          "endTime": "07:15",
+          "title": "Sync",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-03",
+      "weekday": "Samstag",
+      "events": [
+        {
+          "time": "Ganztägig",
+          "startTime": null,
+          "endTime": null,
+          "title": "Isccccchggl",
+          "location": "",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "date": "2026-01-07",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "30-Minuten-online - David Moling",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 13:00",
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "title": "Intro: David Moling <> Maria Morozova",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "30 min with David (Moritz Rauen)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "18:00 - 21:00",
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "title": "KINN TechTalk #1 - VoiceAI",
+          "location": "Tschamlerstraße 3, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "18:00 - 21:00",
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "title": "KINN TechTalk #1 - VoiceAI",
+          "location": "https://luma.com/event/evt-drFpFLtqOC3DpUN",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-08",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "KINN#7",
+          "location": "Egger-Lienz-Straße 116, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "30 min with David (Roman Eckschlager )",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 13:00",
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "title": "30 min with David (Michael Meyer)",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "30 min with David (Henk Wennekes)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "30 min with David (Kevin Klug)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:55 - 13:25",
+          "startTime": "12:55",
+          "endTime": "13:25",
+          "title": "David Moling  und Christian Graser",
+          "location": "https://calendly.com/events/da0ca134-697e-4b6e-a842-8f7ed9a21243/microsoft_teams",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-10",
+      "weekday": "Samstag",
+      "events": [
+        {
+          "time": "Ganztägig",
+          "startTime": null,
+          "endTime": null,
+          "title": "Schweiz Hyrox",
+          "location": "",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "30 min with David (Jannik Kuechler)",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "07:45 - 08:30",
+          "startTime": "07:45",
+          "endTime": "08:30",
+          "title": "Treffen Felix",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "19:00 - 20:00",
+          "startTime": "19:00",
+          "endTime": "20:00",
+          "title": "KI Café - künstliche Intelligenz in der Immobilienbranche (mit Martin Voßberger)",
+          "location": "Zoom",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "title": "30 min with David (Philipp Schulz)",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "KINN#8",
+          "location": "Impact Hub Tirol, Dreiheiligenstraße 21a, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "18:30 - 23:00",
+          "startTime": "18:30",
+          "endTime": "23:00",
+          "title": "WKO Neujahrsempfang Imst",
+          "location": "Bezirksstelle Imst, Meraner Straße 11, 6460 Imst",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "30 Min Sync",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:30",
+          "startTime": "13:30",
+          "endTime": "14:30",
+          "title": "Workshop Refinement",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:30 - 15:00",
+          "startTime": "14:30",
+          "endTime": "15:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:00 - 16:00",
+          "startTime": "15:00",
+          "endTime": "16:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-19",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "09:00 - 11:00",
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "title": " Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Budy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:00 - 12:45",
+          "startTime": "12:00",
+          "endTime": "12:45",
+          "title": "1:1 Outreach-Analyse (Agentur Inkubator) mit Marcel Kibies",
+          "location": "https://us06web.zoom.us/j/89652276840?pwd=ra8rWZ1u3KwnrhLrbEscIeJcSji9JD.1",
+          "allDay": false
+        },
+        {
+          "time": "12:45 - 17:00",
+          "startTime": "12:45",
+          "endTime": "17:00",
+          "title": "Budsy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "30 min with David (Kathy Alume)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 13:00",
+          "startTime": "11:30",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "Sync",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 15:00",
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "title": "BUSy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:00 - 17:00",
+          "startTime": "15:00",
+          "endTime": "17:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "30 min with David (Fabian Eberle)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 14:30",
+          "startTime": "12:30",
+          "endTime": "14:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:30 - 15:15",
+          "startTime": "14:30",
+          "endTime": "15:15",
+          "title": "Synch",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:15 - 17:00",
+          "startTime": "15:15",
+          "endTime": "17:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "18:00 - 20:00",
+          "startTime": "18:00",
+          "endTime": "20:00",
+          "title": "AI für alle: KI-Café in Innsbruck",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "18:00 - 20:00",
+          "startTime": "18:00",
+          "endTime": "20:00",
+          "title": "KI Café - WK Tirol",
+          "location": "WEI SRAUM. Designforum Tirol, Andreas-Hofer-Straße 27, 6020 Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 13:30",
+          "startTime": "12:30",
+          "endTime": "13:30",
+          "title": "CALL - Agentur Inkubator mit Marcel Kibies",
+          "location": "https://us06web.zoom.us/j/87982429620?pwd=XAaz4eH2IvCtbBgAl2riUDIuGbepkN.1",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "WKO Meeting",
+          "location": "wilhelm greil straße 7",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 10:50",
+          "startTime": "10:30",
+          "endTime": "10:50",
+          "title": "Kurzberatung im Gründerservice mit M. Jöchler: Moling David",
+          "location": "Wirtschaftskammer Tirol, Wilhelm-Greil-Straße 7, 6020 Innsbruck",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 16:00",
+          "startTime": "11:30",
+          "endTime": "16:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "08:30 - 10:00",
+          "startTime": "08:30",
+          "endTime": "10:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 14:00",
+          "startTime": "12:30",
+          "endTime": "14:00",
+          "title": "Lunch Meeting",
+          "location": "Restaurant 77, Grabenweg 60, 6020 Innsbruck, Austria",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:00 - 12:30",
+          "startTime": "12:00",
+          "endTime": "12:30",
+          "title": "30 min with David (Emerald Podbićanin)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "30 min with David (Daniel Neurauter)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 17:00",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "16:00 - 18:00",
+          "startTime": "16:00",
+          "endTime": "18:00",
+          "title": "Stammtisch: Praxislabor KI in der Medizin",
+          "location": "Health Hub, Exlgasse 24, 6020 Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "07:30 - 09:00",
+          "startTime": "07:30",
+          "endTime": "09:00",
+          "title": "📝 Unternehmerfrühstück: KI-Lösungen live erleben",
+          "location": "SMUNDWERK OG, Bruggfeldstraße 5, 6500 Landeck",
+          "allDay": false
+        },
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 17:00",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "19:00 - 21:00",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "title": "📝 Fe:male Empowerment Stammtisch",
+          "location": "Haus der Begegnung, Rennweg 12, Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "07:00 - 11:00",
+          "startTime": "07:00",
+          "endTime": "11:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "✅ KINN#10",
+          "location": "Das Wundervoll, Pembaurstraße 14, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 16:00",
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "title": "📝 KI, Digitalisierung und E-Commerce",
+          "location": "Wirtschaftskammer Tirol, Wilhelm-Greil-Straße 7, 6020 Innsbruck",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:30",
+          "startTime": "11:30",
+          "endTime": "12:30",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 13:00",
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "title": "Budy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 18:00",
+          "startTime": "13:00",
+          "endTime": "18:00",
+          "title": "Schramml Soft",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "17:00 - 18:30",
+          "startTime": "17:00",
+          "endTime": "18:30",
+          "title": "📝 DIGI.talk: KI Anwendungsfälle",
+          "location": "Online (Webinar)",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "08:00 - 15:15",
+          "startTime": "08:00",
+          "endTime": "15:15",
+          "title": "roman brainstorm",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Monthly Sync",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "09:00 - 12:00",
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "title": "✅ KI-Workshop: Ideen generieren, Chancen nutzen, Probleme lösen",
+          "location": "Egger-Lienz-Straße 116, 6020 Innsbruck",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 17:00",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "09:00 - 10:30",
+          "startTime": "09:00",
+          "endTime": "10:30",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 16:30",
+          "startTime": "13:30",
+          "endTime": "16:30",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "18:00 - 21:00",
+          "startTime": "18:00",
+          "endTime": "21:00",
+          "title": "✅ KI-Afterwork: Strategie, Anwendung & Netzwerk",
+          "location": "CASABLANCA HOTELSOFTWARE GMBH, Öde 32, 6491 Schönwies",
+          "allDay": false
+        },
+        {
+          "time": "19:00 - 22:00",
+          "startTime": "19:00",
+          "endTime": "22:00",
+          "title": "📝 Build & Connect Meetup mit Expertentalk",
+          "location": "Impact Hub Tirol, Dreiheiligenstraße 21a, Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 16:30",
+          "startTime": "13:30",
+          "endTime": "16:30",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 17:00",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "title": "📝 Impulsgespräch: Kooperation für souveräne KI in Tirol",
+          "location": "IKB-Smart-City-Lab, Langer Weg 32, 6020 Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "📝 KINN#11",
+          "location": "Egger-Lienz-Straße 116, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "09:00 - 10:00",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "title": "Budy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 16:30",
+          "startTime": "13:30",
+          "endTime": "16:30",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-06",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 13:00",
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 16:30",
+          "startTime": "13:30",
+          "endTime": "16:30",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 16:30",
+          "startTime": "13:30",
+          "endTime": "16:30",
+          "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 15:30",
+          "startTime": "14:00",
+          "endTime": "15:30",
+          "title": "Abschlusspräsi Schraml",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "Ganztägig",
+          "startTime": null,
+          "endTime": null,
+          "title": "Happy birthday!",
+          "location": "",
+          "allDay": true
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-13",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-15",
+      "weekday": "Sonntag",
+      "events": [
+        {
+          "time": "Ganztägig",
+          "startTime": null,
+          "endTime": null,
+          "title": "Ust. FRIST",
+          "location": "",
+          "allDay": true
+        }
+      ]
+    },
+    {
+      "date": "2026-02-16",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "18:00 - 20:00",
+          "startTime": "18:00",
+          "endTime": "20:00",
+          "title": "NPO Women's Netzwerktreffen Innsbruck",
+          "location": "Frauen* im Brennpunkt, Innrain 25/III, Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "07:30 - 10:30",
+          "startTime": "07:30",
+          "endTime": "10:30",
+          "title": "Bezirksdialog WKO Tirol - Kundenzentrierung",
+          "location": "Wirtschaftskammer Tirol, Festsaal, Wilhelm-Greil-Straße 7, 6020 Innsbruck",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "GENAEC",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 12:00",
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "title": "Busy Mittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 18:30",
+          "startTime": "14:00",
+          "endTime": "18:30",
+          "title": "KI-Pitching Innsbruck",
+          "location": "Villa Blanka Eventcenter, Weiherburggasse 31, 6020 Innsbruck",
+          "allDay": false
+        }
+      ]
+    }
+  ]
+}
