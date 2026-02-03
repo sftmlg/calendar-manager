@@ -488,14 +488,22 @@ async function updateEvent(auth, account, eventId, calendarIdOrAlias, updates) {
   if (updates.description) event.description = updates.description;
   if (updates.location) event.location = updates.location;
   if (updates.free !== undefined) event.transparency = updates.free ? 'transparent' : 'opaque';
+  if (updates.attendees) {
+    // Add new attendees to existing ones
+    const existingEmails = (event.attendees || []).map(a => a.email);
+    const newAttendees = updates.attendees.split(',').map(e => e.trim()).filter(e => !existingEmails.includes(e));
+    event.attendees = [...(event.attendees || []), ...newAttendees.map(email => ({ email }))];
+  }
 
   const res = await calendar.events.update({
     calendarId,
     eventId,
     resource: event,
+    sendUpdates: updates.attendees ? 'all' : 'none',
   });
 
   console.log(`✅ Event updated:`, res.data.htmlLink);
+  if (updates.attendees) console.log(`📧 Invitations sent to: ${updates.attendees}`);
   return res.data;
 }
 
