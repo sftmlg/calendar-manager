@@ -1,362 +1,12 @@
 {
-  "synced_at": "2026-01-28T18:19:04.680Z",
+  "synced_at": "2026-02-16T06:00:01.905Z",
   "account": "business",
   "range": {
-    "from": "2025-12-30",
-    "to": "2026-02-24"
+    "from": "2026-01-18",
+    "to": "2026-03-15"
   },
-  "total_events": 147,
+  "total_events": 203,
   "days": [
-    {
-      "date": "2025-12-23",
-      "weekday": "Dienstag",
-      "events": [
-        {
-          "time": "Ganztägig",
-          "startTime": null,
-          "endTime": null,
-          "title": "Holidays",
-          "location": "",
-          "allDay": true
-        }
-      ]
-    },
-    {
-      "date": "2025-12-31",
-      "weekday": "Mittwoch",
-      "events": [
-        {
-          "time": "13:00 - 13:15",
-          "startTime": "13:00",
-          "endTime": "13:15",
-          "title": "Sync",
-          "location": "",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-01",
-      "weekday": "Donnerstag",
-      "events": [
-        {
-          "time": "07:00 - 07:15",
-          "startTime": "07:00",
-          "endTime": "07:15",
-          "title": "Sync",
-          "location": "",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-03",
-      "weekday": "Samstag",
-      "events": [
-        {
-          "time": "Ganztägig",
-          "startTime": null,
-          "endTime": null,
-          "title": "Isccccchggl",
-          "location": "",
-          "allDay": true
-        }
-      ]
-    },
-    {
-      "date": "2026-01-07",
-      "weekday": "Mittwoch",
-      "events": [
-        {
-          "time": "09:00 - 09:30",
-          "startTime": "09:00",
-          "endTime": "09:30",
-          "title": "30-Minuten-online - David Moling",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "12:30 - 13:00",
-          "startTime": "12:30",
-          "endTime": "13:00",
-          "title": "Intro: David Moling <> Maria Morozova",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "13:00 - 13:30",
-          "startTime": "13:00",
-          "endTime": "13:30",
-          "title": "30 min with David (Moritz Rauen)",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "18:00 - 21:00",
-          "startTime": "18:00",
-          "endTime": "21:00",
-          "title": "KINN TechTalk #1 - VoiceAI",
-          "location": "Tschamlerstraße 3, 6020 Innsbruck, Austria",
-          "allDay": false
-        },
-        {
-          "time": "18:00 - 21:00",
-          "startTime": "18:00",
-          "endTime": "21:00",
-          "title": "KINN TechTalk #1 - VoiceAI",
-          "location": "https://luma.com/event/evt-drFpFLtqOC3DpUN",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-08",
-      "weekday": "Donnerstag",
-      "events": [
-        {
-          "time": "08:00 - 09:00",
-          "startTime": "08:00",
-          "endTime": "09:00",
-          "title": "KINN#7",
-          "location": "Egger-Lienz-Straße 116, 6020 Innsbruck, Austria",
-          "allDay": false
-        },
-        {
-          "time": "10:30 - 11:00",
-          "startTime": "10:30",
-          "endTime": "11:00",
-          "title": "30 min with David (Roman Eckschlager )",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "12:30 - 13:00",
-          "startTime": "12:30",
-          "endTime": "13:00",
-          "title": "30 min with David (Michael Meyer)",
-          "location": "",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-09",
-      "weekday": "Freitag",
-      "events": [
-        {
-          "time": "09:00 - 09:30",
-          "startTime": "09:00",
-          "endTime": "09:30",
-          "title": "30 min with David (Henk Wennekes)",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "10:30 - 11:00",
-          "startTime": "10:30",
-          "endTime": "11:00",
-          "title": "30 min with David (Kevin Klug)",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "12:55 - 13:25",
-          "startTime": "12:55",
-          "endTime": "13:25",
-          "title": "David Moling  und Christian Graser",
-          "location": "https://calendly.com/events/da0ca134-697e-4b6e-a842-8f7ed9a21243/microsoft_teams",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-10",
-      "weekday": "Samstag",
-      "events": [
-        {
-          "time": "Ganztägig",
-          "startTime": null,
-          "endTime": null,
-          "title": "Schweiz Hyrox",
-          "location": "",
-          "allDay": true
-        }
-      ]
-    },
-    {
-      "date": "2026-01-12",
-      "weekday": "Montag",
-      "events": [
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "13:00 - 13:30",
-          "startTime": "13:00",
-          "endTime": "13:30",
-          "title": "30 min with David (Jannik Kuechler)",
-          "location": "",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-13",
-      "weekday": "Dienstag",
-      "events": [
-        {
-          "time": "07:45 - 08:30",
-          "startTime": "07:45",
-          "endTime": "08:30",
-          "title": "Treffen Felix",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "19:00 - 20:00",
-          "startTime": "19:00",
-          "endTime": "20:00",
-          "title": "KI Café - künstliche Intelligenz in der Immobilienbranche (mit Martin Voßberger)",
-          "location": "Zoom",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-14",
-      "weekday": "Mittwoch",
-      "events": [
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "13:30 - 14:00",
-          "startTime": "13:30",
-          "endTime": "14:00",
-          "title": "30 min with David (Philipp Schulz)",
-          "location": "",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-15",
-      "weekday": "Donnerstag",
-      "events": [
-        {
-          "time": "08:00 - 09:00",
-          "startTime": "08:00",
-          "endTime": "09:00",
-          "title": "KINN#8",
-          "location": "Impact Hub Tirol, Dreiheiligenstraße 21a, 6020 Innsbruck, Austria",
-          "allDay": false
-        },
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "18:30 - 23:00",
-          "startTime": "18:30",
-          "endTime": "23:00",
-          "title": "WKO Neujahrsempfang Imst",
-          "location": "Bezirksstelle Imst, Meraner Straße 11, 6460 Imst",
-          "allDay": false
-        }
-      ]
-    },
-    {
-      "date": "2026-01-16",
-      "weekday": "Freitag",
-      "events": [
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "GENAEC",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "13:00 - 13:30",
-          "startTime": "13:00",
-          "endTime": "13:30",
-          "title": "30 Min Sync",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "13:30 - 14:30",
-          "startTime": "13:30",
-          "endTime": "14:30",
-          "title": "Workshop Refinement",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "14:30 - 15:00",
-          "startTime": "14:30",
-          "endTime": "15:00",
-          "title": "Busy",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "15:00 - 16:00",
-          "startTime": "15:00",
-          "endTime": "16:00",
-          "title": "Busy",
-          "location": "",
-          "allDay": false
-        }
-      ]
-    },
     {
       "date": "2026-01-19",
       "weekday": "Montag",
@@ -584,14 +234,6 @@
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
-          "location": "",
-          "allDay": false
-        },
-        {
           "time": "12:30 - 14:00",
           "startTime": "12:30",
           "endTime": "14:00",
@@ -610,14 +252,6 @@
           "startTime": "10:00",
           "endTime": "11:00",
           "title": "Busy Vormittag",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
           "location": "",
           "allDay": false
         },
@@ -684,14 +318,6 @@
           "allDay": false
         },
         {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "Busy Mittag",
-          "location": "",
-          "allDay": false
-        },
-        {
           "time": "14:00 - 17:00",
           "startTime": "14:00",
           "endTime": "17:00",
@@ -714,14 +340,6 @@
       "weekday": "Donnerstag",
       "events": [
         {
-          "time": "07:00 - 11:00",
-          "startTime": "07:00",
-          "endTime": "11:00",
-          "title": "Busy",
-          "location": "",
-          "allDay": false
-        },
-        {
           "time": "08:00 - 09:00",
           "startTime": "08:00",
           "endTime": "09:00",
@@ -730,26 +348,10 @@
           "allDay": false
         },
         {
-          "time": "10:00 - 16:00",
-          "startTime": "10:00",
-          "endTime": "16:00",
-          "title": "📝 KI, Digitalisierung und E-Commerce",
-          "location": "Wirtschaftskammer Tirol, Wilhelm-Greil-Straße 7, 6020 Innsbruck",
-          "allDay": false
-        },
-        {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
-          "endTime": "11:00",
-          "title": "Busy Vormittag",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "11:30 - 12:30",
-          "startTime": "11:30",
-          "endTime": "12:30",
-          "title": "Busy Mittag",
+          "time": "09:00 - 11:30",
+          "startTime": "09:00",
+          "endTime": "11:30",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
@@ -798,6 +400,30 @@
           "title": "Monthly Sync",
           "location": "",
           "allDay": false
+        },
+        {
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "Pablo Afanasenko upwork",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:15 - 13:30",
+          "startTime": "13:15",
+          "endTime": "13:30",
+          "title": "Yurii",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "title": "Rostyslav",
+          "location": "",
+          "allDay": false
         }
       ]
     },
@@ -814,26 +440,18 @@
           "allDay": false
         },
         {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
-          "endTime": "11:00",
-          "title": "Busy Vormittag",
+          "time": "12:00 - 15:30",
+          "startTime": "12:00",
+          "endTime": "15:30",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "14:00 - 17:00",
-          "startTime": "14:00",
+          "time": "16:00 - 17:00",
+          "startTime": "16:00",
           "endTime": "17:00",
-          "title": "Busy Nachmittag",
+          "title": "Sync",
           "location": "",
           "allDay": false
         }
@@ -847,23 +465,63 @@
           "time": "09:00 - 10:30",
           "startTime": "09:00",
           "endTime": "10:30",
-          "title": "Busy Vormittag",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "30 min with David (Jürgen Schmid)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:30 - 13:00",
           "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "endTime": "13:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "13:30 - 16:30",
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "30 min with David (Leo  Beutler)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
           "startTime": "13:30",
-          "endTime": "16:30",
+          "endTime": "14:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 15:00",
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "title": "Handover Netural x Daniel, Flo, David",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:00 - 16:00",
+          "startTime": "15:00",
+          "endTime": "16:00",
           "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "16:00 - 16:30",
+          "startTime": "16:00",
+          "endTime": "16:30",
+          "title": "Sync",
           "location": "",
           "allDay": false
         },
@@ -874,14 +532,6 @@
           "title": "✅ KI-Afterwork: Strategie, Anwendung & Netzwerk",
           "location": "CASABLANCA HOTELSOFTWARE GMBH, Öde 32, 6491 Schönwies",
           "allDay": false
-        },
-        {
-          "time": "19:00 - 22:00",
-          "startTime": "19:00",
-          "endTime": "22:00",
-          "title": "📝 Build & Connect Meetup mit Expertentalk",
-          "location": "Impact Hub Tirol, Dreiheiligenstraße 21a, Innsbruck",
-          "allDay": false
         }
       ]
     },
@@ -890,10 +540,10 @@
       "weekday": "Mittwoch",
       "events": [
         {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
+          "time": "08:45 - 11:00",
+          "startTime": "08:45",
           "endTime": "11:00",
-          "title": "Busy Vormittag",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
@@ -901,24 +551,64 @@
           "time": "11:30 - 12:00",
           "startTime": "11:30",
           "endTime": "12:00",
-          "title": "Busy Mittag",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "13:30 - 16:30",
+          "time": "12:00 - 13:30",
+          "startTime": "12:00",
+          "endTime": "13:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
           "startTime": "13:30",
-          "endTime": "16:30",
+          "endTime": "14:00",
           "title": "Busy Nachmittag",
           "location": "",
           "allDay": false
         },
         {
-          "time": "14:00 - 17:00",
+          "time": "14:00 - 15:00",
           "startTime": "14:00",
-          "endTime": "17:00",
-          "title": "📝 Impulsgespräch: Kooperation für souveräne KI in Tirol",
-          "location": "IKB-Smart-City-Lab, Langer Weg 32, 6020 Innsbruck",
+          "endTime": "15:00",
+          "title": "Onboarding keba.com",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 15:00",
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "title": "Keba Onboarding",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:00 - 16:30",
+          "startTime": "15:00",
+          "endTime": "16:30",
+          "title": "Termin Marco",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "17:00 - 19:00",
+          "startTime": "17:00",
+          "endTime": "19:00",
+          "title": "Prototyp Design - SIT Automations",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "19:30 - 22:00",
+          "startTime": "19:30",
+          "endTime": "22:00",
+          "title": "KINN TechTalk - Vibe Coding",
+          "location": "Mission Solar - Photovoltaik & Wärmepumpe, Franz-Fischer-Straße 7a, 6020 Innsbruck, Austria",
           "allDay": false
         }
       ]
@@ -931,40 +621,48 @@
           "time": "08:00 - 09:00",
           "startTime": "08:00",
           "endTime": "09:00",
-          "title": "📝 KINN#11",
+          "title": "✅ KINN#11",
           "location": "Egger-Lienz-Straße 116, 6020 Innsbruck, Austria",
           "allDay": false
         },
         {
-          "time": "09:00 - 10:00",
+          "time": "09:00 - 11:00",
           "startTime": "09:00",
-          "endTime": "10:00",
-          "title": "Budy",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
           "endTime": "11:00",
-          "title": "Busy Vormittag",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
+          "time": "11:30 - 13:00",
           "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "endTime": "13:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "13:30 - 16:30",
+          "time": "13:00 - 13:30",
+          "startTime": "13:00",
+          "endTime": "13:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 16:00",
           "startTime": "13:30",
-          "endTime": "16:30",
+          "endTime": "16:00",
           "title": "Busy Nachmittag",
           "location": "",
+          "allDay": false
+        },
+        {
+          "time": "16:30 - 18:00",
+          "startTime": "16:30",
+          "endTime": "18:00",
+          "title": "WG: CodeRabbit meets Schramlsoft",
+          "location": "Microsoft Teams-Besprechung",
           "allDay": false
         }
       ]
@@ -974,10 +672,10 @@
       "weekday": "Freitag",
       "events": [
         {
-          "time": "09:30 - 10:00",
-          "startTime": "09:30",
-          "endTime": "10:00",
-          "title": "Busy",
+          "time": "09:00 - 09:40",
+          "startTime": "09:00",
+          "endTime": "09:40",
+          "title": "Engel: Projekt Onboarding",
           "location": "",
           "allDay": false
         },
@@ -985,31 +683,55 @@
           "time": "10:00 - 11:00",
           "startTime": "10:00",
           "endTime": "11:00",
-          "title": "Busy Vormittag",
+          "title": "Autocenter",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
+          "time": "11:40 - 12:00",
+          "startTime": "11:40",
           "endTime": "12:00",
-          "title": "Busy Mittag",
-          "location": "",
+          "title": "Sprechstunde am Freitag (Agentur Inkubator) mit Marcel Kibies",
+          "location": "https://us06web.zoom.us/j/87629467558?pwd=y7apIp6cvOIYGSNsubXwgBIBwtribP.1",
           "allDay": false
         },
         {
-          "time": "12:30 - 13:00",
-          "startTime": "12:30",
-          "endTime": "13:00",
+          "time": "12:00 - 12:30",
+          "startTime": "12:00",
+          "endTime": "12:30",
           "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "13:30 - 16:30",
+          "time": "12:30 - 13:30",
+          "startTime": "12:30",
+          "endTime": "13:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
           "startTime": "13:30",
-          "endTime": "16:30",
+          "endTime": "14:00",
           "title": "Busy Nachmittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 16:15",
+          "startTime": "14:00",
+          "endTime": "16:15",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "17:00 - 18:00",
+          "startTime": "17:00",
+          "endTime": "18:00",
+          "title": "Gamble Groove & Website software/design",
           "location": "",
           "allDay": false
         }
@@ -1020,10 +742,34 @@
       "weekday": "Montag",
       "events": [
         {
-          "time": "10:00 - 11:00",
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "30 min with David (Philipp Schulz)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 10:30",
           "startTime": "10:00",
-          "endTime": "11:00",
+          "endTime": "10:30",
           "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 11:30",
+          "startTime": "10:30",
+          "endTime": "11:30",
+          "title": "Besprechung Projektstart",
           "location": "",
           "allDay": false
         },
@@ -1031,24 +777,32 @@
           "time": "11:30 - 12:00",
           "startTime": "11:30",
           "endTime": "12:00",
-          "title": "Busy Mittag",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "13:30 - 16:30",
-          "startTime": "13:30",
-          "endTime": "16:30",
-          "title": "Busy Nachmittag",
+          "time": "12:00 - 13:00",
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "14:00 - 15:30",
+          "time": "13:00 - 14:00",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "title": "Silhouette Onboarding",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 17:00",
           "startTime": "14:00",
-          "endTime": "15:30",
-          "title": "Abschlusspräsi Schraml",
-          "location": "",
+          "endTime": "17:00",
+          "title": "WG: GL EDV",
+          "location": "M16, Raum-ZANDERdigital (DICON | EG) & Teamsbesprechung",
           "allDay": false
         }
       ]
@@ -1058,18 +812,10 @@
       "weekday": "Dienstag",
       "events": [
         {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
-          "endTime": "11:00",
-          "title": "Busy Vormittag",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "11:00 - 13:00",
-          "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "time": "09:30 - 11:30",
+          "startTime": "09:30",
+          "endTime": "11:30",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
@@ -1077,7 +823,39 @@
           "time": "11:30 - 12:00",
           "startTime": "11:30",
           "endTime": "12:00",
-          "title": "Busy Mittag",
+          "title": "Sync",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:00 - 14:00",
+          "startTime": "12:00",
+          "endTime": "14:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 14:30",
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "title": "SILH Stand -Up (MEET)",
+          "location": "Bau 2-3-Raum Mut (8) [Logitech MeetUp]",
+          "allDay": false
+        },
+        {
+          "time": "14:30 - 16:30",
+          "startTime": "14:30",
+          "endTime": "16:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "16:30 - 17:00",
+          "startTime": "16:30",
+          "endTime": "17:00",
+          "title": "Yurii / David",
           "location": "",
           "allDay": false
         }
@@ -1088,6 +866,22 @@
       "weekday": "Mittwoch",
       "events": [
         {
+          "time": "07:30 - 09:00",
+          "startTime": "07:30",
+          "endTime": "09:00",
+          "title": "Termin Zahnarzt ",
+          "location": "platzer + schmit Zahnheilkunde, Padre-Kino-Straße 4, 6060 Hall in Tirol, Austria",
+          "allDay": false
+        },
+        {
+          "time": "09:00 - 10:00",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
           "time": "10:00 - 11:00",
           "startTime": "10:00",
           "endTime": "11:00",
@@ -1096,18 +890,50 @@
           "allDay": false
         },
         {
-          "time": "11:00 - 13:00",
+          "time": "11:00 - 12:30",
           "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "endTime": "12:30",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "time": "12:30 - 13:30",
+          "startTime": "12:30",
+          "endTime": "13:30",
+          "title": "30 min with David (Martin  Erb SIT )",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:30",
+          "startTime": "13:30",
+          "endTime": "14:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "title": "30 min with David (Marc Alwers)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:30 - 14:55",
+          "startTime": "14:30",
+          "endTime": "14:55",
+          "title": "Briefing Silhouette Tickets",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:45 - 16:00",
+          "startTime": "14:45",
+          "endTime": "16:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         }
@@ -1126,26 +952,66 @@
           "allDay": true
         },
         {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
-          "endTime": "11:00",
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "KINN#12",
+          "location": "FILMBASE, Haller Str. 119a, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "09:30 - 10:30",
+          "startTime": "09:30",
+          "endTime": "10:30",
           "title": "Busy Vormittag",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:00 - 13:00",
-          "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "time": "10:30 - 11:30",
+          "startTime": "10:30",
+          "endTime": "11:30",
+          "title": "Besprechnung Schritt 1 und Angebot",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
+          "time": "11:30 - 13:30",
           "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "endTime": "13:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 16:00",
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "16:00 - 18:00",
+          "startTime": "16:00",
+          "endTime": "18:00",
+          "title": "Termin Felix",
           "location": "",
           "allDay": false
         }
@@ -1156,6 +1022,22 @@
       "weekday": "Freitag",
       "events": [
         {
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "30 min with David (Marc Alwers)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
           "time": "10:00 - 11:00",
           "startTime": "10:00",
           "endTime": "11:00",
@@ -1164,18 +1046,34 @@
           "allDay": false
         },
         {
-          "time": "11:00 - 13:00",
+          "time": "11:00 - 12:00",
           "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "endTime": "12:00",
+          "title": "John C. Austausch",
+          "location": "Microsoft Teams-Besprechung",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 12:00",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "title": "John C. Austausch (Roman/mAInufaktur)",
+          "location": "Microsoft Teams",
+          "allDay": false
+        },
+        {
+          "time": "12:00 - 14:00",
+          "startTime": "12:00",
+          "endTime": "14:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "time": "14:00 - 15:30",
+          "startTime": "14:00",
+          "endTime": "15:30",
+          "title": "Busy",
           "location": "",
           "allDay": false
         }
@@ -1200,26 +1098,98 @@
       "weekday": "Montag",
       "events": [
         {
-          "time": "10:00 - 11:00",
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Joure Fix Engel",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 10:30",
           "startTime": "10:00",
-          "endTime": "11:00",
+          "endTime": "10:30",
           "title": "Busy Vormittag",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:00 - 13:00",
-          "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "time": "10:30 - 10:45",
+          "startTime": "10:30",
+          "endTime": "10:45",
+          "title": "15-Min Developer Intro (Marcin Woźniak)",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "time": "10:45 - 11:00",
+          "startTime": "10:45",
+          "endTime": "11:00",
+          "title": "15-Min Developer Intro (Fabian Bühler)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 12:15",
+          "startTime": "11:00",
+          "endTime": "12:15",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:15 - 12:30",
+          "startTime": "12:15",
+          "endTime": "12:30",
+          "title": "15-Min Developer Intro (Marc Samtleben)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:30 - 13:00",
+          "startTime": "12:30",
+          "endTime": "13:00",
+          "title": "30 min with David (Alexander Barath)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 13:15",
+          "startTime": "13:00",
+          "endTime": "13:15",
+          "title": "15-Min Developer Intro (Andrei Buliga)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:30 - 14:00",
+          "startTime": "13:30",
+          "endTime": "14:00",
+          "title": "30 min with David (Mickey Graf)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 14:15",
+          "startTime": "14:00",
+          "endTime": "14:15",
+          "title": "15-Min Developer Intro (Andreas Seiler)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:15 - 15:30",
+          "startTime": "15:15",
+          "endTime": "15:30",
+          "title": "15-Min Developer Intro (Ioannis Sidiras)",
           "location": "",
           "allDay": false
         },
@@ -1238,18 +1208,34 @@
       "weekday": "Dienstag",
       "events": [
         {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
-          "endTime": "11:00",
-          "title": "Busy Vormittag",
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "Sherin cloudflare",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:00 - 13:00",
-          "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "time": "09:00 - 10:00",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 10:15",
+          "startTime": "10:00",
+          "endTime": "10:15",
+          "title": "15-Min Developer Intro (Paul Schwieg)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 11:30",
+          "startTime": "10:30",
+          "endTime": "11:30",
+          "title": "Einreichung Beratungsförderung",
           "location": "",
           "allDay": false
         },
@@ -1257,7 +1243,23 @@
           "time": "11:30 - 12:00",
           "startTime": "11:30",
           "endTime": "12:00",
-          "title": "Busy Mittag",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 14:30",
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "title": "SILH Stand -Up (MEET)",
+          "location": "Bau 2-3-Raum Mut (8) [Logitech MeetUp]",
+          "allDay": false
+        },
+        {
+          "time": "14:30 - 15:00",
+          "startTime": "14:30",
+          "endTime": "15:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         }
@@ -1276,26 +1278,26 @@
           "allDay": false
         },
         {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
           "endTime": "11:00",
           "title": "Busy Vormittag",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:00 - 13:00",
+          "time": "11:00 - 12:00",
           "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "endTime": "12:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "time": "13:30 - 15:30",
+          "startTime": "13:30",
+          "endTime": "15:30",
+          "title": "Busy",
           "location": "",
           "allDay": false
         }
@@ -1306,6 +1308,30 @@
       "weekday": "Donnerstag",
       "events": [
         {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "KINN#13",
+          "location": "CASABLANCA hotelsoftware GmbH, Öde 32, 6491 Schönwies, Austria",
+          "allDay": false
+        },
+        {
+          "time": "09:00 - 09:30",
+          "startTime": "09:00",
+          "endTime": "09:30",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
           "time": "10:00 - 11:00",
           "startTime": "10:00",
           "endTime": "11:00",
@@ -1314,18 +1340,18 @@
           "allDay": false
         },
         {
-          "time": "11:00 - 13:00",
+          "time": "11:00 - 12:00",
           "startTime": "11:00",
-          "endTime": "13:00",
-          "title": "GENAEC",
+          "endTime": "12:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "time": "14:00 - 15:30",
+          "startTime": "14:00",
+          "endTime": "15:30",
+          "title": "Busy",
           "location": "",
           "allDay": false
         }
@@ -1336,6 +1362,14 @@
       "weekday": "Freitag",
       "events": [
         {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "Session Felix",
+          "location": "",
+          "allDay": false
+        },
+        {
           "time": "10:00 - 11:00",
           "startTime": "10:00",
           "endTime": "11:00",
@@ -1347,15 +1381,15 @@
           "time": "11:00 - 13:00",
           "startTime": "11:00",
           "endTime": "13:00",
-          "title": "GENAEC",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
+          "time": "13:00 - 15:00",
+          "startTime": "13:00",
+          "endTime": "15:00",
+          "title": "Busy",
           "location": "",
           "allDay": false
         }
@@ -1364,6 +1398,122 @@
     {
       "date": "2026-02-23",
       "weekday": "Montag",
+      "events": [
+        {
+          "time": "09:00 - 09:15",
+          "startTime": "09:00",
+          "endTime": "09:15",
+          "title": "15-Min Developer Intro (Marcin Woźniak)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Joure Fix Engel",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 12:00",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "title": "Abstimmung Arbeitspakete",
+          "location": "Microsoft Teams-Besprechung",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "13:00 - 13:15",
+          "startTime": "13:00",
+          "endTime": "13:15",
+          "title": "15-Min Developer Intro (Paul Schwieg)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 15:00",
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:00 - 17:00",
+          "startTime": "15:00",
+          "endTime": "17:00",
+          "title": "Termin Kennenlernen Gastl",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-24",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "09:15 - 10:15",
+          "startTime": "09:15",
+          "endTime": "10:15",
+          "title": "Mo Ferra",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 14:30",
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "title": "SILH Stand -Up (MEET)",
+          "location": "Bau 2-3-Raum Mut (8) [Logitech MeetUp]",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 18:30",
+          "startTime": "14:00",
+          "endTime": "18:30",
+          "title": "KI-Pitching Innsbruck",
+          "location": "Villa Blanka Eventcenter, Weiherburggasse 31, 6020 Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "weekday": "Mittwoch",
       "events": [
         {
           "time": "10:00 - 11:00",
@@ -1377,7 +1527,67 @@
           "time": "11:00 - 13:00",
           "startTime": "11:00",
           "endTime": "13:00",
-          "title": "GENAEC",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "18:30 - 21:15",
+          "startTime": "18:30",
+          "endTime": "21:15",
+          "title": "AI Austria Meetup #2 Innsbruck",
+          "location": "Dynatrace Austria GmbH - Lab Innsbruck, Höttinger Au 74, 6020 Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "KINN#14",
+          "location": "Raum13 Coworking, Mentlgasse 1, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "16:30 - 21:00",
+          "startTime": "16:30",
+          "endTime": "21:00",
+          "title": "T[AI]ROL | Data & AI Meet up für Westösterreich",
+          "location": "Health Hub Tirol im West Park, Exlgasse 24, A-6020 Innsbruck, Österreich",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-02-27",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "09:00 - 15:00",
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "title": "Vorarlberg KMU Kreil Sicherheitstechnik",
           "location": "",
           "allDay": false
         },
@@ -1385,14 +1595,44 @@
           "time": "11:30 - 12:00",
           "startTime": "11:30",
           "endTime": "12:00",
-          "title": "Busy Mittag",
+          "title": "Monthly Sync",
           "location": "",
           "allDay": false
         }
       ]
     },
     {
-      "date": "2026-02-24",
+      "date": "2026-03-02",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Joure Fix Engel",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-03",
       "weekday": "Dienstag",
       "events": [
         {
@@ -1407,24 +1647,238 @@
           "time": "11:00 - 13:00",
           "startTime": "11:00",
           "endTime": "13:00",
-          "title": "GENAEC",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
-          "startTime": "11:30",
-          "endTime": "12:00",
-          "title": "Busy Mittag",
-          "location": "",
-          "allDay": false
-        },
-        {
-          "time": "14:00 - 18:30",
+          "time": "14:00 - 14:30",
           "startTime": "14:00",
-          "endTime": "18:30",
-          "title": "KI-Pitching Innsbruck",
-          "location": "Villa Blanka Eventcenter, Weiherburggasse 31, 6020 Innsbruck",
+          "endTime": "14:30",
+          "title": "SILH Stand -Up (MEET)",
+          "location": "Bau 2-3-Raum Mut (8) [Logitech MeetUp]",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "08:00 - 09:00",
+          "startTime": "08:00",
+          "endTime": "09:00",
+          "title": "KINN#15",
+          "location": "Egger-Lienz-Straße 116, 6020 Innsbruck, Austria",
+          "allDay": false
+        },
+        {
+          "time": "09:00 - 12:00",
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "title": "KI-Workshop: Prototypen und Testszenarien planen",
+          "location": "Wirtschaftskammer Tirol, Wilhelm-Greil-Straße 7, 6020 Innsbruck",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "weekday": "Samstag",
+      "events": [
+        {
+          "time": "14:00 - 18:00",
+          "startTime": "14:00",
+          "endTime": "18:00",
+          "title": "Pflege Network Treffen Tirol",
+          "location": "Restaurant Kadi, Innrain 115, Innsbruck",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "weekday": "Montag",
+      "events": [
+        {
+          "time": "09:30 - 10:00",
+          "startTime": "09:30",
+          "endTime": "10:00",
+          "title": "Joure Fix Engel",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "weekday": "Dienstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:00 - 14:30",
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "title": "SILH Stand -Up (MEET)",
+          "location": "Bau 2-3-Raum Mut (8) [Logitech MeetUp]",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "weekday": "Mittwoch",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "weekday": "Donnerstag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "weekday": "Freitag",
+      "events": [
+        {
+          "time": "10:00 - 11:00",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "11:00 - 13:00",
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "title": "Busy",
+          "location": "",
           "allDay": false
         }
       ]
