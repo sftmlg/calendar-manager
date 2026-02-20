@@ -1,11 +1,11 @@
 {
-  "synced_at": "2026-02-16T06:00:01.905Z",
+  "synced_at": "2026-02-16T18:06:37.156Z",
   "account": "business",
   "range": {
     "from": "2026-01-18",
     "to": "2026-03-15"
   },
-  "total_events": 203,
+  "total_events": 210,
   "days": [
     {
       "date": "2026-01-19",
@@ -1122,6 +1122,14 @@
           "allDay": false
         },
         {
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "ENGEL Weekly JF - David Termin",
+          "location": "",
+          "allDay": false
+        },
+        {
           "time": "10:30 - 10:45",
           "startTime": "10:30",
           "endTime": "10:45",
@@ -1138,10 +1146,18 @@
           "allDay": false
         },
         {
-          "time": "11:00 - 12:15",
+          "time": "11:00 - 12:00",
           "startTime": "11:00",
-          "endTime": "12:15",
+          "endTime": "12:00",
           "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:00 - 12:15",
+          "startTime": "12:00",
+          "endTime": "12:15",
+          "title": "Sync Autoprojekt",
           "location": "",
           "allDay": false
         },
@@ -1182,6 +1198,14 @@
           "startTime": "14:00",
           "endTime": "14:15",
           "title": "15-Min Developer Intro (Andreas Seiler)",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "14:15 - 15:15",
+          "startTime": "14:15",
+          "endTime": "15:15",
+          "title": "Busy",
           "location": "",
           "allDay": false
         },
@@ -1240,9 +1264,17 @@
           "allDay": false
         },
         {
-          "time": "11:30 - 12:00",
+          "time": "11:30 - 12:15",
           "startTime": "11:30",
-          "endTime": "12:00",
+          "endTime": "12:15",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "12:15 - 14:00",
+          "startTime": "12:15",
+          "endTime": "14:00",
           "title": "Busy",
           "location": "",
           "allDay": false
@@ -1259,6 +1291,14 @@
           "time": "14:30 - 15:00",
           "startTime": "14:30",
           "endTime": "15:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "15:00 - 16:00",
+          "startTime": "15:00",
+          "endTime": "16:00",
           "title": "Busy",
           "location": "",
           "allDay": false
@@ -1348,6 +1388,14 @@
           "allDay": false
         },
         {
+          "time": "13:00 - 14:00",
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "title": "Busy",
+          "location": "",
+          "allDay": false
+        },
+        {
           "time": "14:00 - 15:30",
           "startTime": "14:00",
           "endTime": "15:30",
@@ -1408,18 +1456,26 @@
           "allDay": false
         },
         {
-          "time": "09:30 - 10:00",
+          "time": "09:30 - 10:30",
           "startTime": "09:30",
-          "endTime": "10:00",
-          "title": "Joure Fix Engel",
+          "endTime": "10:30",
+          "title": "Busy Vormittag",
           "location": "",
           "allDay": false
         },
         {
-          "time": "10:00 - 11:00",
-          "startTime": "10:00",
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
           "endTime": "11:00",
-          "title": "Busy Vormittag",
+          "title": "ENGEL Weekly JF - David Termin",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "Joure Fix Engel",
           "location": "",
           "allDay": false
         },
@@ -1606,18 +1662,18 @@
       "weekday": "Montag",
       "events": [
         {
-          "time": "09:30 - 10:00",
-          "startTime": "09:30",
-          "endTime": "10:00",
-          "title": "Joure Fix Engel",
-          "location": "",
-          "allDay": false
-        },
-        {
           "time": "10:00 - 11:00",
           "startTime": "10:00",
           "endTime": "11:00",
           "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "ENGEL Weekly JF - David Termin",
           "location": "",
           "allDay": false
         },
@@ -1762,18 +1818,18 @@
       "weekday": "Montag",
       "events": [
         {
-          "time": "09:30 - 10:00",
-          "startTime": "09:30",
-          "endTime": "10:00",
-          "title": "Joure Fix Engel",
-          "location": "",
-          "allDay": false
-        },
-        {
           "time": "10:00 - 11:00",
           "startTime": "10:00",
           "endTime": "11:00",
           "title": "Busy Vormittag",
+          "location": "",
+          "allDay": false
+        },
+        {
+          "time": "10:30 - 11:00",
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "title": "ENGEL Weekly JF - David Termin",
           "location": "",
           "allDay": false
         },
